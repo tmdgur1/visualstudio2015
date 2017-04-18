@@ -11,6 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             System.Console.Write("hello git");
+            System.Console.Write("문자열 추가");
         }
     }
 }
